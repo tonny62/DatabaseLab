@@ -1,0 +1,32 @@
+div#wrapper {
+  min-width: 400px;
+  background-color: #acacac;
+  padding-top: 0.3em;
+  width: 60%;
+  margin: auto;
+}
+
+div#div_menu {
+  background-color: #dedede;
+  width: 25%;
+  border: 1px solid #121212;
+}
+
+ul#menu {
+  list-style-type: none;
+  margin: 0px;
+  padding: 5px;
+}
+
+li {
+  border: 1px dotted #121212;
+  margin: 0px;
+  padding: 5px;
+  text-align: center;
+}
+div#header{
+  background-color: #55bbbb;
+  padding: 0px;
+  border: 1px solid;
+  margin: 0px;
+}
